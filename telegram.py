@@ -1,7 +1,7 @@
 import telepot
 from Chatbot import Chatbot
 
-telegram = telepot.Bot("1308681669:AAGqX-DRxI_blPSuWA0yXv36Bcff9nkknCA")
+telegram = telepot.Bot("SEU TOKEN AQUI")
 bot = Chatbot("CarrefourJBot")
 
 
